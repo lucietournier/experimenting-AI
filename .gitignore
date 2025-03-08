@@ -3,5 +3,8 @@
 *.jpg
 
 # ignoring data folder contents : 
-flower_classifier/flower_data/*
+flower_classifier/flower_data/
+
+# ignoring checkpoints : 
+*.ipynb_checkpoints
 
