@@ -8,3 +8,5 @@ flower_classifier/flower_data/
 # ignoring checkpoints : 
 *.ipynb_checkpoints
 
+# ignoring models : 
+*.pkl
