@@ -2,9 +2,13 @@
 # ignoring image files : 
 *.jpg
 
+# ignoring csv data : 
+*.csv
+
 # ignoring data folder contents : 
 flower_classifier/flower_data/
 NLP/us-patent-phrase-to-phrase-matching/
+NLP/outputs
 
 # ignoring checkpoints : 
 *.ipynb_checkpoints
