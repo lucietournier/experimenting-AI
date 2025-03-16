@@ -4,9 +4,13 @@
 
 # ignoring data folder contents : 
 flower_classifier/flower_data/
+NLP/us-patent-phrase-to-phrase-matching/
 
 # ignoring checkpoints : 
 *.ipynb_checkpoints
 
 # ignoring models : 
 *.pkl
+
+# ignoring kaggle token
+*kaggle.json
