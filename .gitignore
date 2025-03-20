@@ -5,9 +5,9 @@
 # ignoring csv data : 
 *.csv
 
-# ignoring data folder contents : 
-flower_classifier/flower_data/
-NLP/us-patent-phrase-to-phrase-matching/
+# ignoring data folders : 
+flower_classifier/flower_data
+NLP/us-patent-phrase-to-phrase-matching
 NLP/outputs
 
 # ignoring checkpoints : 
